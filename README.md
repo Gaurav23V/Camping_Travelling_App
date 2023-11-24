@@ -4,7 +4,7 @@
   <img src="/">
 </div>
 
-<a href="https://camping-travelling-app.vercel.app/">here.</a>
+Check out the live demo of the project <a href="https://camping-travelling-app.vercel.app/">here.</a>
 
 ## Getting Started
 

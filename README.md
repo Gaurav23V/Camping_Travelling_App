@@ -1,7 +1,7 @@
 # Camping And Travelling App
 
 <div align="center">
-  <img src="/">
+  <img src="travel_app\public\SampleImage.png">
 </div>
 
 Check out the live demo of the project <a href="https://camping-travelling-app.vercel.app/">here.</a>
